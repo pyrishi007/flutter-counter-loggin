@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790952417191",
+    "project_id": "usercounterapp-2c7d5",
+    "storage_bucket": "usercounterapp-2c7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790952417191:android:38b6b3bfa904cdeee7c882",
+        "android_client_info": {
+          "package_name": "com.example.user_counter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zGquwbk8PS6JoSYTaCm7i_edDjp18Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
